@@ -1,0 +1,1 @@
+docker restart run_container_name
